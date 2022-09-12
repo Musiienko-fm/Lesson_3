@@ -1,0 +1,13 @@
+h1,
+h2 {
+	color: darkred;
+}
+.links a {
+	color: grey;
+}
+.article__date{
+	color: grey;
+}
+.ukr{
+	color: orange;
+}
